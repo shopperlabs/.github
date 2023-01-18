@@ -14,7 +14,7 @@
 
 ## Resources
 
-- []
+- [Official Site](https://laravelshopper.io) — Learn everything about what Shopper is.
 - [Full Documentation](https://laravelshopper.dev) — Read the acclaimed docs.
 - [Twitter](https://twitter.com/laravelshopper) — Read our tweets.
 
