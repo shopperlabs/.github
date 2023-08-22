@@ -8,7 +8,7 @@
 
 ## Packages
 
-- [Framework](https://github.com/shopperlabs/framework) - A fully-featured Laravel admin panel.
+- [Shopper](https://github.com/shopperlabs/shopper) - A fully-featured Laravel admin panel.
 - [Sidebar](https://github.com/shopperlabs/sidebar) - A Laravel Sidebar builder.
 <!-- - [Filament](https://github.com/shopperlabs/filament) - A filament plugin for Laravel Shopper (building...) -->
 <!-- - [WordPress](https://github.com/shopperlabs/wordpress) - A WordPress plugin for Laravel Shopper. -->
