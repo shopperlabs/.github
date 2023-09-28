@@ -4,7 +4,7 @@
 
 ## About Shopper
 
-[Shopper](https://laravelshopper.io) is an open source e-commerce administration built on top of Laravel for Laravel developers to create & manage online shop with multi-vendor.
+[Shopper](https://laravelshopper.dev) is an open source e-commerce administration built on top of Laravel for Laravel developers to create & manage online shop with multi-vendor.
 
 ## Packages
 
@@ -22,8 +22,8 @@
 
 The Filament community makes us stand out.
 Up for a chat or need help?
-Join our [Discord community](https://laravelshopper.io/discord)!
+Join our [Discord community](https://laravelshopper.dev/discord)!
 
-You can help with our open source efforts in many ways: by resolving [open issues](https://github.com/shopperlabs/framework/issues), [improving the docs](https://github.com/shopperlabs/laravelshopper.dev), blogging what you've learned, or tweeting something helful.
+You can help with our open source efforts in many ways: by resolving [open issues](https://github.com/shopperlabs/shopper/issues), [improving the docs](https://github.com/shopperlabs/laravelshopper.dev), blogging what you've learned, or tweeting something helful.
 
 You can also sponsor our open source work via [Open Collective](https://opencollective.com/shopperlabs)
