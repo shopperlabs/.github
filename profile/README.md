@@ -19,8 +19,8 @@
 ## Resources
 
 - [Documentation](https://docs.laravelshopper.dev) - Read the acclaimed docs.
-- [Twitter](https://twitter.com/laravelshopper) - Read our tweets.
-- [Blog](https://laravelshopper.de/blog) - Read our articles.
+- [Twitter](https://x.com/shopperphp) - Read our tweets.
+- [Blog](https://laravelshopper.dev/blog) - Read our articles.
 
 ## Community
 
